@@ -15,5 +15,5 @@ fi
 
 # Activate the virtual environment, run the python script, and deactivate
 source ${sourceFile}
-python3 /Users/Kevin/Projects/Oura/Oura.py
+python3 ./Oura.py
 deactivate
